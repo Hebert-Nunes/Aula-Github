@@ -10,9 +10,11 @@ body {
 }
 
 .Title {
-    font-size: 55px;
+    font-size: 60px;
 }
-
+h1 { 
+    color: white;
+}
 .DivMain {
     display: flex;
     align-items: center;
